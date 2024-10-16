@@ -1,0 +1,9 @@
+@font-face{
+    font-family: "Ubuntu400";
+    src: url("./assets/Fonts/Ubuntu-Regular.ttf");
+}
+
+@font-face{
+    font-family: "Ubuntu700";
+    src: url("./assets/Fonts/Ubuntu-Bold.ttf");
+}
